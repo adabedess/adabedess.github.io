@@ -1,6 +1,6 @@
 @charset "utf-8";
 body {
-  background-color: rgb(229,244,250);
+  background-color: rgb(209,221,226);
 }
 .wrapper {
 	width: auto;
@@ -57,7 +57,7 @@ ol li {
   text-align:center; 
 }
 a:hover{
-  background-color:rgb(229,244,250);}
+  background-color:rgb(209,221,226);}
 ol li a {
   text-decoration:none;
   display:block;
